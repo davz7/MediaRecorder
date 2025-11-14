@@ -21,6 +21,7 @@ playServicesMlkitTextRecognitionCommon = "19.1.0"
 uiText = "1.9.4"
 material3 = "1.4.0"
 navigationRuntimeKtx = "2.9.6"
+navigationCompose = "2.9.6"
 
 
 [libraries]
@@ -52,6 +53,7 @@ play-services-mlkit-text-recognition-common = { group = "com.google.android.gms"
 androidx-compose-ui-text = { group = "androidx.compose.ui", name = "ui-text", version.ref = "uiText" }
 androidx-material3 = { group = "androidx.compose.material3", name = "material3", version.ref = "material3" }
 androidx-navigation-runtime-ktx = { group = "androidx.navigation", name = "navigation-runtime-ktx", version.ref = "navigationRuntimeKtx" }
+androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigationCompose" }
 
 
 [plugins]
